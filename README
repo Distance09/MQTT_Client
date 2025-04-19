@@ -1,0 +1,2 @@
+It stores the MQTT client code, and the server uses EMQX open source service platform.
+Note that if you do not connect to the EMQX server for a long time, more than a month, EMQX will automatically delete the deployed MQTT server.
